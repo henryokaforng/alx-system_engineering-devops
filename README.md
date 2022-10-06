@@ -1,2 +1,2 @@
-We are now engineers
-so what?
+This repositry contains the solutions to shell tasks
+
