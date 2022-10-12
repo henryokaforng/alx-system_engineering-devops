@@ -1,0 +1,2 @@
+#!/bin/bash
+ecHO "hello $USER"
